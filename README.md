@@ -1,4 +1,4 @@
-# az-CRUD-app
+# CRUD-az-storage-table
 CRUD app with azure functions and table storage using NodeJS
 
 IMPORTANT! 
